@@ -1,0 +1,50 @@
+
+
+div.picklist-left select,
+div.picklist-right select{
+	width: 140px;
+}
+
+
+div.picklist-left{
+	float: left;
+}
+div.picklist-left label{
+	float: left;
+	clear: both;
+}
+div.picklist-left select{
+	float: left;
+	clear: both;
+}
+
+div.picklist-buttons{
+	float: left;
+	padding: 3px 50px;
+}
+
+div.picklist-button{
+	border: 1px solid #CACACA;
+	border-radius: 3px;
+	background: #FAFAFA;
+	color: #232323;
+	cursor: pointer;
+	font-size: 12px;
+	margin: 6px;
+	padding: 6px 11px;
+}
+div.picklist-button:hover{
+	border: 1px solid #000000;		
+}
+
+.picklist-right{
+	float: left;	
+}
+.picklist-right label{
+	float: left;
+	clear: both;
+}
+.picklist-right select{
+	float: left;
+	clear: both;
+}
